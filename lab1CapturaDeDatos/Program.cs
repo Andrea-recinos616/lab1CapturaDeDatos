@@ -63,7 +63,7 @@ namespace Laboratorio01
             Console.WriteLine();
             Console.WriteLine("Presione cualquier tecla para salir");
             Console.ReadKey();
-            Console.WriteLine("Gracias por utilizar el sistema.");
+            Console.WriteLine("Gracias por utilizar nuestro sistema :)");
         }
     }
 }
